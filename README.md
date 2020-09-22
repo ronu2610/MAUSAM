@@ -2,6 +2,11 @@
 
 A simple, opensource weather app for Android. It gathers data from [OpenWeatherMap](https://openweathermap.org/), via their public API.
 
+[![GitHub license](https://img.shields.io/github/license/ronu2610/MAUSAM)](LICENSE) 
+![Github Followers](https://img.shields.io/github/followers/ronu2610?label=Follow&style=flat) 
+![GitHub stars](https://img.shields.io/github/stars/ronu2610/MAUSAM) 
+![GitHub forks](https://img.shields.io/github/forks/ronu2610/MAUSAM)
+![GitHub watchers](https://img.shields.io/github/watchers/ronu2610/MAUSAM?style=flat)
 
 ## Features
 * Simple design
